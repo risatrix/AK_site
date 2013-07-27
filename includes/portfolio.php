@@ -1,5 +1,3 @@
-portfolio.php
-
 <h1>Site Design</h1>
 
 <div class ="pics">                                        
