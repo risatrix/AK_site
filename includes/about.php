@@ -1,8 +1,10 @@
 
-<h1>Front-End Development, UX/UI, and Wordpress</h1>
+<h1>Interactive Producer. Pontifex/Developer. And more!</h1>
 	
-	<p>for the most part. I've done a lot of different things, from discovery to wireframing to coding to troubleshooting why the heck the PHP isn't talking to the database, to saying, "Hey, why NOT try making a Python app!" Mostly, I just
-	like problem-solving, big-picture strategy, and working with cool people.</p>
+	<p>In the course of contract and agency work, I've done a lot of different things, from discovery to 
+		wireframing to coding to troubleshooting why the heck the PHP isn't talking to the database. Mostly, I 
+	like problem-solving, big-picture strategy, and working with cool people - and that's why I'm thrilled to be working 
+at the Texas Tribune.</p>
 	
 	<div class ="pics">
 		<a href="https://www.vizify.com/amanda-krauss" class="fancybox folio_link" title="Vizify visual resum&eacute;"> <img src="img/vizify.png" class="thumb"><div class="title-slider">Vizify visual resum&eacute;</div></a>

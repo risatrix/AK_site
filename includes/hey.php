@@ -17,6 +17,6 @@ body {background: none; text-align: left;}
 				&nbsp; <br />
 				<input type="submit"> </form>       
 </body>
-<script type="text/javascript" src="//use.typekit.net/kdy5fsf.js"></script>
+<script type="text/javascript" src="//use.typekit.net/vob2vre.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </html>
