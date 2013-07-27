@@ -56,3 +56,20 @@ $(window).load(function() {
 </script>
 </head>
 
+<body>
+  <div id="container"> 
+    <header class="group" id="top-header">
+      <hgroup id="branding">
+        <a href="/AK_site"><h1>Amanda Krauss</h1>
+        <h2>One Of Them There Austin Creatives</h2></a>
+      </hgroup>
+      
+         
+      <nav id="pagenav">
+        <ul>
+          <li><a href="#" class="page-nav">About</a></li>
+          <li><a href="#" class="page-nav">Portfolio</a></li>
+          <li><a href="#" class="page-nav">"Art"</a></li>
+          <li><a href="#" class="page-nav">Contact</li></a>      
+        </ul>
+      </header> <!--END Header-->
