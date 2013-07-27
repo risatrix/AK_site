@@ -43,15 +43,7 @@ $(window).load(function() {
 	slideshow: false,
 	controlNav: true,              
     directionNav: false             
-  });
- $('#folioslider').flexslider({
-    animation: "slide",
-	useCSS: false,
-	manualControls: true,
-	slideshow: true,
-	controlNav: true,              
-    directionNav: true             
-  });                        
+  });                    
 }); 
 </script>
 </head>

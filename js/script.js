@@ -44,17 +44,5 @@ $(document).ready(function(){
 		
 		 $(".Ifancybox").fancybox({
 		     titlePosition: 'over',
-			});     
-		
-		//Coda Slider	
-	    jQuery('#folio_slider').codaSlider({
-	 	autoSlide: false,
-		autoHeight: false,
-		dynamicArrows: true,
-		autoSlideStopWhenClicked: true,
-	    dynamicArrowLeftText: "Left &#171;",
-       	dynamicArrowRightText: "Right &#187;",
- 		dynamicTabs: false,                     
-		panelTitleSelector: "h1.coda_title"                
-		});                                         
+			});        
   });                 
