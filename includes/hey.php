@@ -1,11 +1,11 @@
 <!DOCTYPE HTML>
 
 <head> 
-<link href="style.css" rel="stylesheet" type="text/css" media="screen" />     
+<link href="../style/style.css" rel="stylesheet" type="text/css" media="screen" />     
 <style>
 body {background: none; text-align: left;}
 #contact-form input, #contact-form textarea {-moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; text-shadow: none; font-size: 1.1em}
-#contact-form label {font: bold 1.1em/1.5 'futura-pt','GeosansLightRegular', Verdana, Arial, sans-serif;  color: #ccff99; text-align: left;}              
+#contact-form label {font: bold 1.1em/1.5 'futura-pt', Verdana, sans-serif;  color: #ccff99; text-align: left;}              
 </style> 
 </head>
 <body>  
@@ -17,4 +17,6 @@ body {background: none; text-align: left;}
 				&nbsp; <br />
 				<input type="submit"> </form>       
 </body>
+<script type="text/javascript" src="//use.typekit.net/kdy5fsf.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </html>
