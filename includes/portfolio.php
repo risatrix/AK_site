@@ -1,5 +1,5 @@
 <h1>The Texas Tribune</h1>
-<p>At the Tribune, I combine front-end development with co-ordination of Art, Tech, Events, Membership, and Business Development.
+<p>At the Tribune, I do front-end development as well as coordinating our platform team with Art, Tech, Events, Membership, and Business Development.
 	I came up with a strategy to allow a gradual transition into responsiveness. I've done some UX an UI work on our
 	explorers and games; and my ongoing project is to wrangle all the styles into a single style guide project.
 
@@ -9,8 +9,8 @@
 		<a href="http://amandakrauss.com/portfolio/?ds-gallery=dental-auxiliaries-austin-design-wordpress-development-seo"  title="opens portfolio page" class="fancybox folio_link"><img src="img/DASA.png" class="thumb" alt="DASA portfolio link"/><div class="title-slider">Small business site</div></a>
 </div><!--end .pics--> 
 
-<h1>Contract Coding</h1>
-<p>Previous to joining the Tribune, I did a lot of Wordpress development in agency environments.</p>
+<h1 style="clear:both;">Contract/Freelance Coding</h1>
+<p>Previous to joining the Tribune, I did freelance Wordpress development, as well as doing contract coding in agency environments.</p>
 
 <div class ="pics">  
 	<a href="http://amandakrauss.com/portfolio/?ds-gallery=interactive-social-media-playbook" title="opens portfolio page" class="fancybox folio_link"><img src="img/aev.png" class ="thumb"><div class="title-slider">Interactive Playbook</div></a>      

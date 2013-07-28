@@ -1,7 +1,7 @@
 
 <h1>Interactive Producer. Pontifex/Developer. And more!</h1>
 	
-	<p>In the course of contract and agency work, I've done a lot of different things, from discovery to 
+	<p>I've performed a lot of different roles, from teaching to discovery to 
 		wireframing to coding to troubleshooting why the heck the PHP isn't talking to the database. Mostly, I 
 	like problem-solving, big-picture strategy, and working with cool people - and that's why I'm thrilled to be working 
 at the Texas Tribune.</p>

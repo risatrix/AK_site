@@ -3,7 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Amanda Krauss -- Front-end Development, Creative Classicism, and more </title>        
 
-<link href="style/style.css" rel="stylesheet" type="text/css" media="screen" />
+<link rel ="stylesheet" href="style/style.css" type="text/css" media="screen" />
 <link rel ="stylesheet" href="js/fancybox/source/jquery.fancybox.css"></script>  
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>       
 <script src="js/jquery.flexslider.js"></script>
