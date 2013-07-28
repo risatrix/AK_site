@@ -24,7 +24,7 @@
 <script src="js/fancybox/source/jquery.fancybox.pack.js"></script>
 <script src="js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>    
 <script src="js/script.js"></script>
-<script type="text/javascript" src="//use.typekit.net/kdy5fsf.js"></script>
+<script type="text/javascript" src="//use.typekit.net/vob2vre.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 <link href="coda_style.css" rel="stylesheet" type="text/css" media="screen" /></script>
