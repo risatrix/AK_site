@@ -16,12 +16,18 @@
 
 body {
 	font-size: 1.1em;
-    line-height: 1.5;
-    font-family: "futura-pt", sans-serif;
+  line-height: 1.5;
+  font-family: "futura-pt", sans-serif;
+  font-weight: 100;
 	background: #151515 url(../img/bg.png) no-repeat fixed 50% 0;
 	margin: 0; 
 	padding: 0;
 	text-align: center;
+}
+
+h1, h2 {
+  font-weight: 100;
+  font-style: normal;
 }
 
 
@@ -31,11 +37,10 @@ a, a:visited {
  text-decoration: none;
 } 
 
-*, #homeslider p {text-shadow:2px 2px 8px #000; font-family: "freight-sans-pro", Helvetica;}
 
 /*Structure*/
 #container {
-    width: 100%;
+  width: 100%;
 	max-width: 1020px;
 	margin: 0 auto; 
 	text-align: left; 
@@ -49,13 +54,14 @@ header {  width: 100%;  padding-top: 30px; -moz-box-shadow: 0 1px 4px rgba(0, 0,
 #branding {float: left;}
 #branding h1 {text-align: center; margin-bottom: 0; padding-bottom: 0; margin: 0 auto; font-size:48px; 
     text-shadow:2px 2px 8px #000 ;}
-#branding h2 {text-align: center;font-size: 1.1em; margin-top: 0; padding-top: 0; margin: 0 auto; padding-bottom: 20px;}
+#branding h2 {text-align: center;font-size: 1.1em; margin-top: 0; padding-top: 0; margin: 0 auto; padding-bottom: 20px; letter-spacing: 1px;}
 
 
 
 #branding a h1, #branding a:visited h1, #branding a h2, #branding a:visited h2, nav a, nav a:visited {
 	color: #ccff99;
 }
+
 
 /*Nav Styles*/
 #pagenav {float: right;}
@@ -80,7 +86,6 @@ a.page-nav.flex-active {
 
 
 #pagenav li a {float: left; font-size: 20px;
-	font-weight: bold;
 	margin-right: 2em;
  	 }
 
@@ -89,6 +94,12 @@ a.page-nav.flex-active {
 /*Page Content*/
 
 
+#homeslider p {
+  font-weight: 100;
+  font-family: 'freight-sans-pro';
+  letter-spacing: 1px;
+  font-size: 1em;
+}
 
 #content {
 	padding: 40px 20px 20px 20px; 
