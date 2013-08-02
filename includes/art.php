@@ -4,7 +4,7 @@
 	<div class="pics">  		
 		<div class="cell">						
 			<a href="img/dionysium_slides/01.png" class="Ifancybox folio_link" rel="group1" title="Slides for a Dionysium lecture - Photoshop. 1)Illustrating the Iliad." >
-				<img src="img/dionysium_slides/dionysium_thumb.png" alt="An illustration for Homer's Iliad" / class="thumb">
+				<img src="img/dionysium_slides/01.png" alt="An illustration for Homer's Iliad" / class="thumb">
 				<div class="title-slider">Presentation Slideshow</div>
 			</a>
 			<a href="img/dionysium_slides/02.png" class="Ifancybox" rel="group1" title="2)Phryne unrobed" ></a>
@@ -16,14 +16,14 @@
 		</div>
 		<div class="cell">	
 			<a href="img/ekk-poster.png" rel="group2" class="Ifancybox folio_link" title="Glossy poster for an ancient Greek play I tranlsated - don't ask. Photoshop/Acrobat">
-				<img src="img/ekk_thumb.png" class="thumb"/>
+				<img src="img/ekk-poster.png" class="thumb"/>
 				<div class="title-slider">Performance Ads</div>
 			</a>	
 			<a href="img/ekk-flyer.png" class="Ifancybox" rel="group2" title="Flyer for the staged reading, made for easy copying."></a>
 		</div>
 		<div class="cell">	
 			<a href="img/wntw.png" class="Ifancybox folio_link" title="Photoshop Fun - What Would It Look Like if Plato Met Stacey and Clinton?">
-				<img src="img/wntw-thumb.png" class="thumb"/>
+				<img src="img/wntw.png" class="thumb"/>
 				<div class="title-slider">Plato Meets <em>WNTW</em></div>
 			</a>                                            
 		</div>
@@ -33,7 +33,8 @@
 			 
 	<div class="pics">
 		<div class="cell">
-			<a href="img/photos/R2.JPG" class="Ifancybox folio_link" title="Fromt the Dionysium Robot Show. By all accounts the awesomest picture I've ever taken."><img src ="img/photos/R2.JPG" class="thumb">
+			<a href="img/photos/R2.JPG" class="Ifancybox folio_link" title="Fromt the Dionysium Robot Show. By all accounts the awesomest picture I've ever taken.">
+				<img src ="img/photos/R2.JPG" class="thumb">
 				<div class="title-slider">Pictures of Robots</div>
 			</a>
 		</div>
