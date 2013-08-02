@@ -40,8 +40,7 @@ a, a:visited {
 
 /*Structure*/
 #container {
-  width: 100%;
-	max-width: 1020px;
+  max-width: 100%;
 	margin: 0 auto; 
 	text-align: left; 
 	color: #ccff99;
@@ -238,4 +237,8 @@ html[xmlns] .slides {display: block;}
 @media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev {opacity: 1; left: 0;}
   .flex-direction-nav .flex-next {opacity: 1; right: 0;}
+
+  .pics .cell {width: 100%;}
 }
+
+
