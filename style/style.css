@@ -120,8 +120,9 @@ p {font-weight: bold; font-size: 1.1em;}
 
 
 /*Images*/
+
 #pics-container {text-align: center; margin: 10px auto; width: 100%;}
-img.thumb {width: 216px; height: 160px; float: left;}
+img.thumb {width: 216px; height: 160px;}
            
 /*Thumbnail Animation*/
 .folio_link{position: relative; overflow: hidden; height: 160px; width: 216px; float: left; margin: 1em; float: left;} 
@@ -159,6 +160,7 @@ li.page p {clear: both;}
 .contact-page p {width: 45%; float: left;}     
 
 .pics {width: 90%; margin: 5px auto; clear: both;}
+.pics .cell {width: 33%; text-align: center; float: left;} 
 
 
 /*
