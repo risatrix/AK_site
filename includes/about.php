@@ -1,10 +1,9 @@
 
 <h1>Interactive Producer. Pontifex/Developer. And more!</h1>
 	
-	<p>I've performed a lot of different roles, from teaching to discovery to 
-		wireframing to coding to troubleshooting why the heck the PHP isn't talking to the database. Mostly, I 
-	like problem-solving, big-picture strategy, and working with cool people - and that's why I'm thrilled to be working 
-at the Texas Tribune.</p>
+	<p>I've done a few things. I've taught Latin and wireframed and troubleshooted (shot?) them all. I code (front-end, mostly) but what I really like about my job(s)
+	like is problem-solving, big-picture strategy, and working with interesting, interested, and passionate people - and that's why I'm thrilled to be working 
+at the <a href="www.texastribune.org">Texas Tribune</a>.</p>
 	
 	<div class ="pics">
 		<div class="cell">

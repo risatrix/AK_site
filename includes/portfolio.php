@@ -5,30 +5,48 @@
 
 <div class ="pics">      
 	<div class="cell">                                  
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=the-tigress-pub" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link"><img src="img/new_tigress_screencap.png" class="thumb" alt="Tigress portfolio link" /><div class="title-slider">The Tigress Pub</div></a> 
+		<a href="img/festival.png" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link">
+			<img src="img/festival.png" class="thumb" alt="Tigress portfolio link" />
+			<div class="title-slider">TT Festival Site</div>
+		</a> 
 	</div>
 	<div class="cell"> 	
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=author-website-design-wordpress-development" target="_blank" title="opens portfolio page" class="fancybox folio_link"><img src="img/AG_site.png" class="thumb" alt="Adriana Gardella portfolio link" /><div class="title-slider">Author site</div></a> 
+		<a href="img/explorer.png" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link">
+			<img src="img/explorer.png" class="thumb" alt="Tigress portfolio link" />
+			<div class="title-slider">TT Festival Site</div>
+		</a> 
 	</div>
 	<div class="cell"> 			
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=dental-auxiliaries-austin-design-wordpress-development-seo"  title="opens portfolio page" class="fancybox folio_link"><img src="img/DASA.png" class="thumb" alt="DASA portfolio link"/><div class="title-slider">Small business site</div></a>
+		<a href="img/mega_mini.png" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link">
+			<img src="img/mega_mini.png" class="thumb" alt="Tigress portfolio link" />
+			<div class="title-slider">TT Festival Site</div>
+		</a> 
 	</div>	
 </div><!--end .pics--> 
 
-<h1 style="clear:both;">Contract/Freelance Coding</h1>
+<h1 style="clear:both;">Wordpress Work</h1>
 <p>Previous to joining the Tribune, I did freelance Wordpress development, as well as doing contract coding in agency environments.</p>
 
 <div class ="pics">
 	<div class="cell">   
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=interactive-social-media-playbook" title="opens portfolio page" class="fancybox folio_link"><img src="img/aev.png" class ="thumb"><div class="title-slider">Interactive Playbook</div></a>      
+		<a href="img/aev.png" title="opens portfolio page" class="fancybox folio_link">
+			<img src="img/aev.png" class ="thumb">
+			<div class="title-slider">Interactive Playbook</div>
+		</a>      
 	</div>
 	<div class="cell"> 
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=beachwear-ecommerce-site" title="opens portfolio page" class="fancybox folio_link"><img src="img/howzit_screenshot.png" class ="thumb"><div class="title-slider">E-commerce Site</div></a>       
+		<a href="" title="opens portfolio page" class="fancybox folio_link">
+			<img src="img/howzit_screenshot.png" class ="thumb">
+			<div class="title-slider">Blog</div>
+		</a>       
 	</div>
 	<div class="cell">
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=dental-site-custom-wordpress-theme" title="opens portfolio page" class="fancybox folio_link"><img src="img/greenspoint-site.png" class="thumb"><div class="title-slider">Dental Site</div></a>
+		<a href="http://amandakrauss.com/portfolio/?ds-gallery=beachwear-ecommerce-site" title="opens portfolio page" class="fancybox folio_link">
+			<img src="img/howzit_screenshot.png" class ="thumb">
+			<div class="title-slider">Blog</div>
+		</a>
 	</div>	
-</div><!--end .pics-->  
+</div>
 
 <h1 style="clear: both;">UX, Mobile, and App-y Miscellany</h1>   
 <p>Projects I've done for fun, or friends, or both.

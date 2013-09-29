@@ -12,7 +12,7 @@ include('includes/header.php');
 					</li><!--end About page-->
 
 					<li class="page">
-            			 <?php include('includes/portfolio.php');?>
+            			<?php include('includes/portfolio.php');?>
 					</li><!--end Portfolio Page-->
 
  					<li class="page">
