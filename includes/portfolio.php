@@ -43,15 +43,20 @@
 		</a>      
 	</div>
 	<div class="cell"> 
-		<a href="" title="opens portfolio page" class="fancybox folio_link">
-			<img src="img/howzit_screenshot.png" class ="thumb">
-			<div class="title-slider">Blog</div>
+		<a href="img/tech_trans_thumb.png" 
+			title="Tech In Translation blog - Design, Development, Content" 
+			data-url="http://www.techintranslation.com"
+			class="fancybox folio_link">
+			<img src="img/Tech_In_Translation.png">
+			<div class="title-slider">Wordpress Blog</div>
 		</a>       
 	</div>
 	<div class="cell">
-		<a href="http://amandakrauss.com/portfolio/?ds-gallery=beachwear-ecommerce-site" title="opens portfolio page" class="fancybox folio_link">
-			<img src="img/howzit_screenshot.png" class ="thumb">
-			<div class="title-slider">Blog</div>
+		<a href="img/tigress_thumb.png" 
+			title="The Tigress Pub - Design, Development." class="fancybox folio_link"
+			data-url="http://www.thetigresspub.com">
+			<img src="img/The_Tigress_Pub.png">
+			<div class="title-slider">Single Page Business Site</div>
 		</a>
 	</div>	
 </div>
