@@ -76,7 +76,7 @@ header {  width: 100%; -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); -webkit-box
 #pagenav li {display: inline;}
 
 #pagenav a:hover {
-    background: rgba(255, 255, 255, .2);
+  background: rgba(255, 255, 255, .2);
 	color: #00bbf9;
 	-moz-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);
 	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2); 
@@ -84,7 +84,7 @@ header {  width: 100%; -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); -webkit-box
 } 
 
 a.page-nav.flex-active {
-    -moz-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1);
+  -moz-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1);
 	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1); 
 	box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1);
 	background: rgba(255, 255, 255, .1);       
