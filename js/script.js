@@ -28,7 +28,9 @@ $(document).ready(function(){
 	    $(".folio_link").fancybox({
 		   type :'iframe',
 		   afterLoad: function() {
-        	this.title = this.title + '<a href="' + $(this.element).data('url') + '">Visit Site</a>' ;
+		   	if ($(this.element).data('url')) {
+        	this.title = this.title + '<a href="' + $(this.element).data('url') + '">Visit Site</a>';
+        	}
    		   },
 		   helpers : {
         		title: {

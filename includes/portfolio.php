@@ -36,7 +36,8 @@
 
 <div class ="pics">
 	<div class="cell">   
-		<a href="img/aev.png" title="opens portfolio page" class="fancybox folio_link">
+		<a href="img/aev.png" 
+			title="Interactive playbook - Wordpress Development." class="fancybox folio_link">
 			<img src="img/aev.png" class ="thumb">
 			<div class="title-slider">Interactive Playbook</div>
 		</a>      
