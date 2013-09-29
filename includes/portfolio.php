@@ -5,7 +5,10 @@
 
 <div class ="pics">      
 	<div class="cell">                                  
-		<a href="img/TT-festival.png" title="The Texas Tribune Festival Site - UI/UX/Front-End" class="fancybox folio_link" data-url="http://www.texastribune.org/festival/2013/home" >
+		<a href="img/TT-festival.png" 
+			title="The Texas Tribune Festival Site - UI/UX/Front-End. I orchestrated UX meetings to clean up the architecture and coded the site and off-canvas menu." 
+			class="fancybox folio_link" 
+			data-url="http://www.texastribune.org/festival/2013/home" >
 			<img src="img/TT-festival.png" alt="screenshot of Texas Tribune festival site" />
 			<div class="title-slider">
 				TT Festival Site
@@ -13,7 +16,9 @@
 		</a> 
 	</div>
 	<div class="cell"> 	
-		<a href="img/TT-explorer.png" title="Ethics Explorer- UI, Front-End"  data-url="http://www.texastribune.org/bidness/explore" class="fancybox folio_link">
+		<a href="img/TT-explorer.png" 
+			title="Ethics Explorer- UI, Front-End. I built the interface and suggested incorporating the Isotope library to add an element of fun to political ethics."  
+			data-url="http://www.texastribune.org/bidness/explore" class="fancybox folio_link">
 			<img src="img/TT-explorer.png" alt="screenshot of Texas Tribune Ethics Explorer" />
 			<div class="title-slider">TT Explorer</div>
 		</a> 

@@ -168,6 +168,26 @@ img.thumb { width: 100%;}
   transform: translate3d(0, -100%, 0);
 }
 
+/*Fancybox*/
+
+.fancybox-title-inside-wrap {
+  padding-top: 0;
+}
+
+.fancybox-title {
+  font-family: font-family: "futura-pt", sans-serif;
+  font-size: 15px !important;
+  text-align: left;
+  margin-bottom: 1em;
+  color: #222;
+}
+
+.fancybox-title a {
+  color: #00bbf9;
+  text-decoration: underline;
+  margin-left: 1em;
+}
+
 /*Sliders*/ 
 #homeslider {margin: 10px auto; inherit: none; background: none; border: none; overflow: visible; box-shadow: none;}
 .slider-wrap {position: relative; z-index: 500;}
