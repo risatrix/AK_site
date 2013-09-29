@@ -27,6 +27,12 @@ $(document).ready(function(){
 	   //Fancybox
 	    $(".fancybox").fancybox({
 		   type :'iframe',
+		   helpers : {
+        		title: {
+            		type: 'inside',
+            		position: 'top'
+        		}
+    		},
 			});
 		
 		 $(".Ifancybox").fancybox({
