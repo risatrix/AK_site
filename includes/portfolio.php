@@ -5,21 +5,21 @@
 
 <div class ="pics">      
 	<div class="cell">                                  
-		<a href="img/TT-festival.png" title="The Texas Tribune Festival Site" class="fancybox folio_link">
-			<img src="img/TT-festival.png" class="thumb" alt="screenshot of Texas Tribune festival site" />
+		<a href="img/TT-festival.png" title="The Texas Tribune Festival Site - UI/UX/Front-End" class="fancybox folio_link" data-url="http://www.texastribune.org/festival/2013/home" >
+			<img src="img/TT-festival.png" alt="screenshot of Texas Tribune festival site" />
 			<div class="title-slider">
 				TT Festival Site
 			</div>
 		</a> 
 	</div>
 	<div class="cell"> 	
-		<a href="img/TT-explorer.png" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link">
-			<img src="img/TT-explorer.png" class="thumb" alt="Tigress portfolio link" />
+		<a href="img/TT-explorer.png" title="Ethics Explorer- UI, Front-End"  data-url="http://www.texastribune.org/bidness/explore" class="fancybox folio_link">
+			<img src="img/TT-explorer.png" alt="screenshot of Texas Tribune Ethics Explorer" />
 			<div class="title-slider">TT Explorer</div>
 		</a> 
 	</div>
 	<div class="cell"> 		
-		<a href="img/TT-dropdown.png" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link">	
+		<a href="img/TT-dropdown.png" title="Responsive Redesign - Design/Dev" data-url="http://www.texastribune.org/" class="fancybox folio_link">	
 			<img src="img/TT-dropdown.png" class="thumb" alt="Tigress portfolio link" />
 			<div class="title-slider">TT Dropdown</div>
 		</a> 

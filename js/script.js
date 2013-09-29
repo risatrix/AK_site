@@ -25,8 +25,11 @@ $(document).ready(function(){
     		});                                	
 	   });
 	   //Fancybox
-	    $(".fancybox").fancybox({
+	    $(".folio_link").fancybox({
 		   type :'iframe',
+		   afterLoad: function() {
+        	this.title = this.title + '<a href="' + $(this.element).data('url') + '">Visit Site</a>' ;
+   		   },
 		   helpers : {
         		title: {
             		type: 'inside',
