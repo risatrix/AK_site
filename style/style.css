@@ -125,7 +125,6 @@ img.thumb { width: 100%;}
   width: 100%; 
   height: 50px; 
   position: absolute; 
-  bottom: -100%;
   padding-top: 20px; 
   padding-left: 10px; 
   font-weight: bold; 
@@ -136,8 +135,37 @@ img.thumb { width: 100%;}
   z-index: 10001; 
   }       
 
-.title-slider.active {
+.js .title-slider  {
+   bottom: -100%;
+}
+
+.js .title-slider.active {
   bottom: 0;
+}
+
+.js.csstransforms3d.csstransitions .title-slider {
+ -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-transition: -webkit-transform 300ms ease-in-out;
+  -moz-transition: -moz-transform 300ms ease-in-out;
+  -o-transition: -o-transform 300ms ease-in-out;
+  transition: transform 300ms ease-in-out;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.js.csstransforms3d.csstransitions .title-slider.active {
+  -webkit-transform: translate3d(0, -100%, 0);
+  -moz-transform: translate3d(0, -100%, 0);
+  -ms-transform: translate3d(0, -100%, 0);
+  -o-transform: translate3d(0, -100%, 0);
+  transform: translate3d(0, -100%, 0);
 }
 
 /*Sliders*/ 

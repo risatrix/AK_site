@@ -5,7 +5,8 @@
 
 <link rel ="stylesheet" href="style/style.css" type="text/css" media="screen" />
 <link rel ="stylesheet" href="js/fancybox/source/jquery.fancybox.css"></script>  
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>       
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>   
+<script src="js/modernizr.min.js"></script>  
 <script src="js/jquery.flexslider.js"></script>
 <script src="js/fancybox/source/jquery.fancybox.js"></script>
 <script src="js/fancybox/source/jquery.fancybox.pack.js"></script>
