@@ -7,7 +7,10 @@
 	<div class="cell">                                  
 		<a href="img/festival.png" title="The Tigress Pub - UX, Design, Dev" class="fancybox folio_link">
 			<img src="img/festival.png" class="thumb" alt="Tigress portfolio link" />
-			<div class="title-slider">TT Festival Site</div>
+			<div class="title-slider">
+				TT Festival Site
+				<a href="http://www.texastribune.org/festival/2013/home/">Visit Site</a>
+			</div>
 		</a> 
 	</div>
 	<div class="cell"> 	

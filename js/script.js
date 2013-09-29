@@ -15,27 +15,14 @@ $(document).ready(function(){
       
    		
    		$(this).mouseenter (function () {
-			//var thisTitle = $(this).attr("title") + " >>";
-			//$(this).find("div.title-slider").text(thisTitle);
 			$(this).find("img.thumb").css("opacity","0.8");
-			$(this).find("div.title-slider").animate({
-    			opacity: 1.0,
-    			marginBottom: "100px",
-    			fontSize: "1em",
-    			borderWidth: "10px"
-  				}, 100 );              
-               
-    	  		});    
+			$(this).find("div.title-slider").addClass('active');
+    	  	});    
 		$(this).mouseleave (
 			function () {
 	 			$("img").css("opacity","1.0");        	
-	 			$("div.title-slider").animate({
-    				opacity: 0,
-    				marginBottom: "0",
-    				fontSize: "1em",
-    				borderWidth: "10px"
-  					}, 300 );             
-    });                                 	
+	 			$(this).find("div.title-slider").removeClass('active');         
+    		});                                	
 	   });
 	   //Fancybox
 	    $(".fancybox").fancybox({
