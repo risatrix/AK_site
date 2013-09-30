@@ -1,10 +1,10 @@
 
-<h1>Interactive Producer. Pontifex/Developer. And more!</h1>
+<h1>Interactive Producer. Gladiator/Developer. And more!</h1>
 	
 	<p>I've done a few things. I've taught Latin and wireframed and troubleshooted (shot?) them all. I code (front-end, mostly) but what I really like about my job(s)
 	is problem-solving, big-picture strategy, and working with interesting, interested, and passionate people - and that's why I'm thrilled to be working 
 at the <a href="www.texastribune.org">Texas Tribune</a>.</p>
-	<p> Here, in requisite iconic form, are some places you might find out more about me:</o>
+	<!--<p> Here, in requisite iconic form, are some places you might find out more about me:</o>
 	
 	<div class ="pics">
 		<ul class="ico-list">
@@ -34,4 +34,4 @@ at the <a href="www.texastribune.org">Texas Tribune</a>.</p>
 				</a>
 			</li>
 		</ul>
-	</div><!-- end .pics -->
+	</div>--><!-- end .pics -->
