@@ -91,8 +91,13 @@
 				<img src="img/homepage_wireframe.png">
 			</a>     
 		</div>
-		<div>
-			<a href="img/UB-app.png" class="fancybox folio_link" title="Mobile app for a salon. Wireframe on Photoshop, Python/GAE development in progress."><img src="img/betty-thumb.png" class="thumb"/><div class="title-slider">Mobile Address App</div></a>                       
+		<div class="cell">
+			<a href="img/Betty.png" 
+				class="fancybox folio_link" 
+				title="Mobile app for a salon - Design, UX/UI, Development (rails)."
+				data-url="http://shrouded-depths-2527.herokuapp.com/">
+				<img src="img/Betty.png"/>
+				<div class="title-slider">Mobile Address App</div></a>                       
 		</div>
 		<div class="cell"> 
 			<a href="http://www.worstprofessorever.com/quiz/plato-splash.html" class="fancybox folio_link" title="Cosmo-inspired Plato quiz - Design, Development(PHP)"><img src="img/plato-quiz-thumb.png" class="thumb"/><div class="title-slider">Cosmo/Plato Quiz!</div></a>	
