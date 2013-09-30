@@ -64,8 +64,32 @@
 <h1 style="clear: both;">UX, Mobile, and App-y Miscellany</h1>   
 <p>Projects I've done for fun, or friends, or both.
 	<div class ="pics">
-		<div>	
-			<a href="img/orig_grid.png" class="Ifancybox folio_link" rel="vcl" title="The initial design was inspired by this poster."><img src="img/vcl-thumb.png" class="thumb" rel="vcl"><div class="title-slider">Cocktail Site UX</div></a><a href="img/simple_grid.png"  class="Ifancybox"  rel="vcl" title="The simplified grid."></a> <a href="img/sitemap.png"  class="Ifancybox"  rel="vcl" title="The Omnigraffle sitemap, showing preliminary architecture and Wordpress categories."</a><a href="img/homepage_wireframe.png"  class="Ifancybox"  rel="vcl" title="The Omnigraffle wireframe. Unfortunately, the site is waiting for funding.."</a>     
+		<div class="cell">
+			<a href="img/orig_grid.png" 
+			title="The initial design was inspired by this poster."
+			class="fancybox folio_link" 
+			rel="vcl" >
+				<img src="img/vcl_thumb.png">
+				<div class="title-slider">Cocktail Site UX</div>
+			</a>
+			<a href="img/simple_grid.png" 
+				title="The simplified grid." 
+				class="fancybox"  
+				rel="vcl" >
+				<img src ="img/simple_grid.png">
+			</a> 
+			<a href="img/sitemap.png"  
+			class="fancybox folio_link"  
+			rel="vcl" 
+			title="The Omnigraffle sitemap, showing preliminary architecture and Wordpress categories.">s
+				<img src="img/sitemap.png">
+			</a>
+			<a href="img/homepage_wireframe.png"  
+			class="fancybox folio_link"  
+			rel="vcl" 
+			title="The Omnigraffle wireframe. Unfortunately, the site is waiting for funding.">
+				<img src="img/homepage_wireframe.png">
+			</a>     
 		</div>
 		<div>
 			<a href="img/UB-app.png" class="fancybox folio_link" title="Mobile app for a salon. Wireframe on Photoshop, Python/GAE development in progress."><img src="img/betty-thumb.png" class="thumb"/><div class="title-slider">Mobile Address App</div></a>                       
