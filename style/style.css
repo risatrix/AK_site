@@ -185,7 +185,10 @@ img.thumb { width: 100%;}
 .fancybox-title a {
   color: #00bbf9;
   text-decoration: underline;
-  margin-left: 1em;
+}
+
+.fancybox-title a.outside-link {
+   margin-left: 1em;
 }
 
 /*Sliders*/ 

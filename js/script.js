@@ -29,7 +29,7 @@ $(document).ready(function(){
 		   type :'iframe',
 		   afterLoad: function() {
 		   	if ($(this.element).data('url')) {
-        	this.title = this.title + '<a href="' + $(this.element).data('url') + '">Visit Site</a>';
+        	this.title = this.title + '<a href="' + $(this.element).data('url') + '" class="outer-link">Visit Site</a>';
         	}
    		   },
 		   helpers : {
@@ -38,9 +38,5 @@ $(document).ready(function(){
             		position: 'top'
         		}
     		},
-			});
-		
-		 $(".Ifancybox").fancybox({
-		     titlePosition: 'over',
-			});        
+		});   
   });                 

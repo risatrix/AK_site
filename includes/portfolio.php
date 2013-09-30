@@ -43,7 +43,7 @@
 		</a>      
 	</div>
 	<div class="cell"> 
-		<a href="img/tech_trans_thumb.png" 
+		<a href="img/Tech_In_Translation.png" 
 			title="Tech In Translation blog - Design, Development, Content" 
 			data-url="http://www.techintranslation.com"
 			class="fancybox folio_link">
@@ -52,7 +52,7 @@
 		</a>       
 	</div>
 	<div class="cell">
-		<a href="img/tigress_thumb.png" 
+		<a href="img/The_Tigress_Pub.png" 
 			title="The Tigress Pub - Design, Development." class="fancybox folio_link"
 			data-url="http://www.thetigresspub.com">
 			<img src="img/The_Tigress_Pub.png">
