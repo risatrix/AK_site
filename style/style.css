@@ -304,3 +304,28 @@ html[xmlns] .slides {display: block;}
 }
 
 
+/**/
+.ico-list {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.ico-list li {
+  display: inline-block;
+  margin: 0 1em;
+  font-size: 1.5em;
+  float: left;
+}
+
+.ico-list .viz-item {
+  background-image: url(/AK_site/img/vizify-blue-logo.png);
+  background-repeat: no-repeat;
+  background-size: 75px auto;
+  width: 75px;
+  display: block;
+  text-indent: -9999px;
+}
+
+.ico-list .viz-item:hover {
+  background-image: url(/AK_site/img/vizify-active-logo.png);
+}

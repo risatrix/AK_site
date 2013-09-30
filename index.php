@@ -8,11 +8,11 @@ include('includes/header.php');
 		<div class="flexslider" id="homeslider">
 				<ul class="slides">                                     
 					<li class="page">
-						<?php include('includes/portfolio.php');?>
+						<?php include('includes/about.php');?>
 					</li><!--end About page-->
 
 					<li class="page">
-            			<?php include('includes/about.php');?>
+						<?php include('includes/portfolio.php');?>
 					</li><!--end Portfolio Page-->
 
  					<li class="page">
