@@ -12,6 +12,12 @@
     zoom:1; /* For IE 6/7 (trigger hasLayout) */
 }
 
+.screen-reader-text { /* Hides text for icon-only links etc. */
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
 /*Global styles*/
 
 body {
@@ -123,7 +129,7 @@ p {font-weight: bold; font-size: 1.1em;}
 
 /*Images*/
 img.thumb { width: 100%;}
-           
+
 /*Thumbnail Animation*/
 .folio_link{position: relative; overflow: hidden; margin: 1em; float: left;} 
 .title-slider {
@@ -232,6 +238,44 @@ li.page p {clear: both;}
 .pics {width: 90%; margin: 5px auto; clear: both;}
 .pics .cell {width: 33%; text-align: center; float: left;} 
 
+/*footer*/
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background: rgba(0,0,0,0.85);
+  z-index: 50000;
+}
+
+.ico-list {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: .5em 0;
+}
+
+.ico-list li {
+  display: inline-block;
+  margin: 0 1em;
+  font-size: 1.5em;
+}
+
+.ico-list li a {
+  z-index: 50001;
+}
+
+.viz-item {
+  background-image: url(/AK_site/img/vizify-blue-logo.png);
+  background-repeat: no-repeat;
+  background-size: 75px auto;
+  width: 75px;
+  display: block;
+  text-indent: -9999px;
+}
+
+.viz-item:hover {
+  background-image: url(/AK_site/img/vizify-active-logo.png);
+}
 
 /*
  * jQuery FlexSlider v2.0
@@ -310,31 +354,4 @@ html[xmlns] .slides {display: block;}
   .flex-direction-nav .flex-next {opacity: 1; right: 0;}
 
   .pics .cell {width: 100%;}
-}
-
-
-/**/
-.ico-list {
-  margin: 0 auto;
-  max-width: 500px;
-}
-
-.ico-list li {
-  display: inline-block;
-  margin: 0 1em;
-  font-size: 1.5em;
-  float: left;
-}
-
-.ico-list .viz-item {
-  background-image: url(/AK_site/img/vizify-blue-logo.png);
-  background-repeat: no-repeat;
-  background-size: 75px auto;
-  width: 75px;
-  display: block;
-  text-indent: -9999px;
-}
-
-.ico-list .viz-item:hover {
-  background-image: url(/AK_site/img/vizify-active-logo.png);
 }

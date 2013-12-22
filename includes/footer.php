@@ -1,3 +1,31 @@
+<footer>
+	<ul class="ico-list">
+		<li>
+			<a class="fs1" data-icon="&#xe000;" href="http://www.linkedin.com/pub/amanda-krauss/23/7a1/539" title="Linked In profile">
+				<span class="screen-reader-text">Linked In</span>
+			</a>
+		</li>
+		<li>	
+			<a class="fs1" data-icon="&#xe001;" href="https://twitter.com/risatrix" title="Twitter profile">
+				<span class="screen-reader-text">Twitter</span>
+			</a>
+		</li>
+		<li>
+			<a class="fs1" data-icon="&#xe002;" href="http://techintranslation.com" title="Blog">
+				<span class="screen-reader-text">Blog</span>
+			</a>
+		</li>
+		<li>	
+			<a class="fs1" data-icon="&#xe003;" href="http://www.github.com/risatrix" title="Github profile">
+				<span class="screen-reader-text">Github</span>
+			</a>
+		</li>
+		<li>	
+			<a class="viz-item" href="#">Vizify visual resum&eacute;</a>
+		</li>
+	</ul>
+</footer>
+
 </div> <!--END Container-->
 <script type="text/javascript">
 
