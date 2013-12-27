@@ -360,6 +360,18 @@ html[xmlns] .slides {display: block;}
 
 @media screen and (max-width: 800px) {
 
+  #container {
+    padding: 0 1em;
+  }
+
+  #branding, #pagenav, #pagenav li a {
+    float: none;
+  }
+
+  #pagenav {
+    margin: 0 auto;
+    text-align: center;
+  }
   .pics .cell {width: 100%;}
 
   .js.csstransforms3d.csstransitions .title-slider {
@@ -373,5 +385,9 @@ html[xmlns] .slides {display: block;}
 
   .folio_link {
     max-height: none;
+  }
+
+  .hide-for-mobile {
+    display: none !important;
   }
 }

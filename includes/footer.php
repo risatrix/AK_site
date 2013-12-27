@@ -20,7 +20,7 @@
 				<span class="screen-reader-text">Github</span>
 			</a>
 		</li>
-		<li>	
+		<li class="hide-for-mobile">	
 			<a class="viz-item" href="#">Vizify visual resum&eacute;</a>
 		</li>
 	</ul>
