@@ -57,7 +57,7 @@ a:hover {
   max-width: 100%;
 	margin: 0 auto; 
 	text-align: left; 
-	color: #ccff99;
+	color: #C7DFB3;
 	padding: 1em;
   background: rgb(0,0,0); /* Old browsers */
   background: -moz-linear-gradient(left, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 33%, rgba(0,0,0,1) 66%, rgba(0,0,0,1) 100%); /* FF3.6+ */
@@ -80,7 +80,7 @@ header {  width: 100%; -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); -webkit-box
 
 
 #branding a h1, #branding a:visited h1, #branding a h2, #branding a:visited h2, nav a, nav a:visited {
-	color: #ccff99;
+  color: #C7DFB3;
 }
 
 
@@ -91,7 +91,6 @@ header {  width: 100%; -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); -webkit-box
 
 #pagenav a:hover {
   background: rgba(255, 255, 255, .2);
-	color: #00bbf9;
 	-moz-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);
 	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2); 
 	box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);    
@@ -257,11 +256,15 @@ footer {
 }
 
 .ico-list li a {
+  color: #C7DFB3;
   z-index: 50001;
 }
 
+.ico-list li a:hover {
+  color: #a8fcf7
+}
 .viz-item {
-  background-image: url(/AK_site/img/vizify-blue-logo.png);
+  background-image: url(/AK_site/img/vizify-green-logo.png);
   background-repeat: no-repeat;
   background-size: 75px auto;
   width: 75px;
@@ -270,7 +273,7 @@ footer {
 }
 
 .viz-item:hover {
-  background-image: url(/AK_site/img/vizify-active-logo.png);
+  background-image: url(/AK_site/img/vizify-blue-logo.png);
 }
 
 /*
