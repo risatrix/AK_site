@@ -26,8 +26,7 @@
   <div id="container"> 
     <header class="group" id="top-header">
       <hgroup id="branding">
-        <a href="/AK_site"><h1>Amanda Krauss</h1>
-        <h2>One Of Them There Austin Creatives</h2></a>
+        <h1>Amanda Krauss</h1>
       </hgroup>
       
          
