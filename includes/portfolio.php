@@ -19,12 +19,12 @@
 		<a href="img/TT/TT-fest-sitemap.png" 
 			title="I orchestrated UX meetings to clean up the site architecture, and suggested we try a mobile-first approach to 
 			decide what was really important enough to stay. The tracks menu was a particular challenge..." 
-			class="fancybox folio_link" 
+			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
 			rel="tt" ></a>
 		<a href="img/TT/TT-fest-home-menu.png" 
 			title="So I suggested and build an off-canvas menu." 
-			class="fancybox folio_link" 
+			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
 			rel="tt" ></a>
 	</div>
@@ -37,7 +37,7 @@
 		</a> 
 		<a href="img/TT/TT-bidness-filter.png" 
 			title="So I suggested and build an off-canvas menu." 
-			class="fancybox folio_link" 
+			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
 			rel="tt" ></a>
 	</div>
@@ -52,7 +52,7 @@
 		</a>
 		<a href="img/TT/TT-homepage-mobile.png" 
 			title="So I suggested and build an off-canvas menu." 
-			class="fancybox folio_link" 
+			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
 			rel="tt" ></a> 
 	</div>	
@@ -103,7 +103,7 @@
 			<div class="title-slider">Cocktail Site UX</div>
 		</a>
 		<a href="img/VCL/sitemap.png"  
-		class="fancybox folio_link"  
+		class="fancyboxk"  
 		rel="vcl" 
 		title="I made an Omnigraffle sitemap, showing preliminary architecture and Wordpress categories, since the client indicated this would be the platform.">
 		</a>
