@@ -25,16 +25,10 @@ $(document).ready(function(){
     		});                                	
 	   });
 	   //Fancybox
-	    $(".folio_link").fancybox({
-		    // type :'iframe',
-        fitToView : false,
-        autoSize  : false,
-        width     : 'auto',
-        height    : 'auto',
-        autoResize: true,
+	    $(".fancybox").fancybox({
 		   afterLoad: function() {
 		   	if ($(this.element).data('url')) {
-        	this.title = this.title + '<a href="' + $(this.element).data('url') + '" class="outer-link">Visit Site</a>';
+        	this.title = this.title + '&nbsp;<a href="' + $(this.element).data('url') + '" class="outer-link" target="_blank">Visit Site</a>';
         	}
    		   },
 		   helpers : {

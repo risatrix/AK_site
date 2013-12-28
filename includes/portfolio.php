@@ -1,17 +1,17 @@
 <h1>The Texas Tribune</h1>
-<p>At the Tribune, I do front-end development, UX, and UI work, as well as coordinating our platform team with Art, Tech, Events, Membership, and Business Development.
-	I planned and executed a strategy to allow a responsive redesign while the site was still functioning, and have worked on explorers, games, and
-	microsites. My most current project is an online styleguide, as well as the actual wrangling of our styles in one place.
+<p>At the Tribune, I do front-end development, UX, and UI work, as well as coordinating our platform team with Art, Events, Membership, and Business Development.
+	I planned and executed aresponsive redesign without disrupting the site, and have worked on explorers, games, and
+	microsites. Upcoming projects include an online styleguide as well as a whole new Tribune-branded opinion site.
 
 <div class ="pics">      
 	<div class="cell">                                  
-		<a href="img/TT/TT-fest-home.png" 
+		<a href="img/TT/TT-festival.png" 
 			title="The Texas Tribune Festival Site - UI/UX/Front-End. This was the third festival, and the previous sites had started to 
 			feel cluttered." 
 			class="fancybox folio_link" 
 			data-url="http://www.texastribune.org/festival/2013/home" 
-			rel="tt">
-			<img src="img/TT-festival.png" alt="screenshot of Texas Tribune festival site" />
+			rel="tt-festival">
+			<img src="img/TT/TT-festival.png" alt="screenshot of Texas Tribune festival site" />
 			<div class="title-slider">
 				Tribune Festival Microsite
 			</div>
@@ -21,40 +21,42 @@
 			decide what was really important enough to stay. The tracks menu was a particular challenge..." 
 			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
-			rel="tt" ></a>
+			rel="tt-festival" ></a>
 		<a href="img/TT/TT-fest-home-menu.png" 
-			title="So I suggested and build an off-canvas menu." 
+			title="So I built an off-canvas menu. This allowed the users to explore the festival tracks while leaving the
+			home page uncluttered." 
 			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
-			rel="tt" ></a>
+			rel="tt-festival" ></a>
 	</div>
 	<div class="cell"> 	
-		<a href="img/TT/TT-bidness-home.png" 
-			title="Ethics Explorer- UI, Front-End. I built the interface and suggested incorporating the Isotope library to add an element of fun to political ethics."  
-			data-url="http://www.texastribune.org/bidness/explore" class="fancybox folio_link" rel="tt">
-			<img src="img/TT-explorer.png" alt="screenshot of Texas Tribune Ethics Explorer" />
+		<a href="img/TT/TT-explorer.png" 
+			title="Ethics Explorer - UI, Front-End. I built the interface using the Isotope JS library."  
+			data-url="http://www.texastribune.org/bidness/explore" class="fancybox folio_link" rel="tt-ethics">
+			<img src="img/TT/TT-explorer.png" alt="screenshot of Texas Tribune Ethics Explorer" />
 			<div class="title-slider">Ethics Explorer (UI) </div>
 		</a> 
 		<a href="img/TT/TT-bidness-filter.png" 
-			title="So I suggested and build an off-canvas menu." 
+			title="Isotope made the filtering process more game-like for our users." 
 			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
-			rel="tt" ></a>
+			rel="tt-ethics" ></a>
 	</div>
 	<div class="cell"> 		
 		<a href="img/TT/TT-homepage-menu.png" 
-			title="Responsive Redesign - Design/Dev" 
+			title="Responsive Redesign - Design/Dev. Following an editorial revision of our cateogries we needed to bring
+			the site into a responsive structure." 
 			data-url="http://www.texastribune.org/" 
 			class="fancybox folio_link">	
-			<img src="img/TT-dropdown.png" alt="Texas Tribune homepage thumb"
-			rel="tt" />
+			<img src="img/TT/TT-dropdown.png" alt="Texas Tribune homepage thumb"
+			rel="tt-RWD" />
 			<div class="title-slider">Mega Dropdown (UX/UI)</div>
 		</a>
 		<a href="img/TT/TT-homepage-mobile.png" 
-			title="So I suggested and build an off-canvas menu." 
+			title="The mobile version of the menu." 
 			class="fancybox" 
 			data-url="http://www.texastribune.org/festival/2013/home"
-			rel="tt" ></a> 
+			rel="tt-RWD" /></a> 
 	</div>	
 </div><!--end .pics--> 
 
@@ -63,19 +65,25 @@
 
 <div class ="pics">
 	<div class="cell">
-			<a href="img/Betty.png" 
+			<a href="img/UB/UB-app.png" 
 				class="fancybox folio_link" 
 				title="Mobile app for a salon - Rails Development, Design, UX/UI."
-				data-url="http://peaceful-inlet-9694.herokuapp.com//">
-				<img src="img/UB-thumb.png"/>
-				<div class="title-slider">Mobile Address App (Rails)</div></a>                       
+				data-url="http://peaceful-inlet-9694.herokuapp.com/" rel="UB">
+				<img src="img/UB/UB-page.png"/>
+				<div class="title-slider">Mobile Address App (Rails)</div>
+			</a> 
+			<a href="img/UB/UB-page.png"
+			title="the app"
+			data-url="http://peaceful-inlet-9694.herokuapp.com/"
+			rel="UB"
+			></a>                      
 	</div>
 	<div class="cell">
 		<a href="img/internote.png" 
-			title="Footnote UI" 
+			title="Footnote UI - An example of what electronic footnotes *could* look like, for a personal writing project." 
 			class="fancybox folio_link" 
 			data-url="risatrix.github.io/internote" 
-			rel="tt">
+			>
 			<img src="img/internote.png" alt="screenshot of Texas Tribune festival site" />
 			<div class="title-slider">
 				Footnote UI
@@ -84,7 +92,8 @@
 	</div>
 	<div class="cell"> 
 		<a href="img/Tech_In_Translation.png" 
-			title="Tech In Translation blog - Design, Development, Content" 
+			title="Tech In Translation blog - Design, Development, Content. This is often where I try out UI ideas, such
+			as the offcanvas menu or the comment interface." 
 			data-url="http://www.techintranslation.com"
 			class="fancybox folio_link">
 			<img src="img/Tech_In_Translation.png">
@@ -99,16 +108,16 @@
 		title="The initial design was inspired by this poster. The client wanted to make a site that curated vintage cocktail recipes."
 		class="fancybox folio_link" 
 		rel="vcl" >
-			<img src="img/VCL/simple_grid.png">
+			<img src="img/VCL/VCL-thumb.png">
 			<div class="title-slider">Cocktail Site UX</div>
 		</a>
 		<a href="img/VCL/sitemap.png"  
-		class="fancyboxk"  
+		class="fancybox"  
 		rel="vcl" 
 		title="I made an Omnigraffle sitemap, showing preliminary architecture and Wordpress categories, since the client indicated this would be the platform.">
 		</a>
 		<a href="img/VCL/homepage_wireframe.png"  
-		class="fancybox folio_link"  
+		class="fancybox"  
 		rel="vcl" 
 		title="The homepage wireframe. Unfortunately, the site is waiting for funding - hopefully it will come through, because it's a pretty cool project.">
 		</a>     

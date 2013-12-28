@@ -33,7 +33,7 @@
       <nav id="pagenav">
         <ul>
           <li><a href="#" class="page-nav">About</a></li>
-          <li><a href="#" class="page-nav">Work</a></li>
+          <li><a href="#" class="page-nav">Code</a></li>
           <li><a href="#" class="page-nav">"Art"</a></li>
           <li><a href="#" class="page-nav">Contact</li></a>      
         </ul>
