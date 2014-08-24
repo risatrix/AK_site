@@ -26,7 +26,7 @@
   <div id="container">
     <header class="group" id="top-header">
       <hgroup id="branding">
-        <h1>Amanda Krauss</h1>
+        <h1 class="hide-for-mobile">Amanda Krauss</h1>
       </hgroup>
 
 
