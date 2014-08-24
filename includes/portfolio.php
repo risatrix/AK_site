@@ -5,6 +5,31 @@
 
 <div class ="pics">
 	<div class="cell">
+		<a href="img/TT/TT-tribtalk.png"
+			title="Our new opinion site. Working closely with our designer, I created most of the templating and style. I used Bourbon/Neat for the grid,
+			and Grunt to compile Sass."
+			data-url="http://www.tribtalk.org/"
+			class="fancybox folio_link"
+			rel="TT-tribtalk">
+			<img src="img/TT/TT-tribtalk.png" alt="Texas Tribune homepage thumb" />
+			<div class="title-slider">Opinion Site (Front End)</div>
+		</a>
+		<a href="img/TT/TT-edit-admin.png"
+			title="I also started playing with how to build a user-friendly interface on top
+			of the Django admin, using class-based views. I'll admit it:
+			this was basically an attempt to get Django to act more like Wordpress."
+			data-url="http://www.tribtalk.org/"
+			class="fancybox folio_link"
+			rel="TT-tribtalk">
+		</a>
+		<a href="img/TT/TT-lineup-admin.png"
+			title="I also built a custom view and the interface for putting together a lineup."
+			data-url="http://www.tribtalk.org/"
+			class="fancybox folio_link"
+			rel="TT-tribtalk">
+		</a>
+	</div>
+	<div class="cell">
 		<a href="img/TT/TT-festival.png"
 			title="The Texas Tribune Festival Site - UI/UX/Front-End. This was the third festival, and the previous sites had started to
 			feel cluttered."
