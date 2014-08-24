@@ -1,5 +1,5 @@
 <h1>Speaking (and Other Bad Habits)</h1>
-<p>Most recently, I've spoken at <a href="http://panelpicker.sxsw.com/vote/25767">SXSW</a>, <a href="http://risatrix.github.io/WCATX/#/">WordCamp ATX</a>, and Hacks/Hackers <a href="http://risatrix.github.io/hackleaders/#/">Hack Leadership</a> conference.
+<p>Most recently, I've spoken at <a href="http://panelpicker.sxsw.com/vote/25767">SXSW</a>, <a href="http://risatrix.github.io/WCATX/#/">WordCamp ATX</a>, and ASNE <a href="http://risatrix.github.io/hackleaders/#/">Hack Leadership</a> conference.
 	Before that, I emceed and spoke at <a href="http://dionysium.com/" class="fancybox">The Dionysium</a>, Austin's original intellectual variety show, and before <em>that</em>
 	I spent ten years teaching (i.e. presenting) on history and humor. Although I'm more likely to use reveal.js these days, making presentation materials gave me my start with Photoshop, and sparked my interest in multimedia and online publishing.</p>
 
