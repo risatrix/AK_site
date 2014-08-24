@@ -93,13 +93,13 @@
 			<a href="img/UB/UB-app.png"
 				class="fancybox folio_link"
 				title="Mobile app for a salon - Rails Development, Design, UX/UI."
-				data-url="http://peaceful-inlet-9694.herokuapp.com/" rel="UB">
+				data-url="http://bettyapp.herokuapp.com/" rel="UB">
 				<img src="img/UB/UB-page.png"/>
 				<div class="title-slider">Mobile Address App (Rails)</div>
 			</a>
 			<a href="img/UB/UB-page.png"
 			title="the app"
-			data-url="http://peaceful-inlet-9694.herokuapp.com/"
+			data-url="http://bettyapp.herokuapp.com/"
 			rel="UB"
 			></a>
 	</div>
