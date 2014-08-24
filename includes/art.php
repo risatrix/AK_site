@@ -54,8 +54,8 @@
 		  	</a>
 		</div>
 		<div class="cell">
-			<a href="img/chopped-large.png" class="fancybox folio_link" title="Me, with camera. Hair color no longer accurate.">
-				<img src ="img/chopped-large.png">
+			<a href="img/photos/chopped-large.png" class="fancybox folio_link" title="Me, with camera. Hair color no longer accurate.">
+				<img src ="img/photos/chopped-large.png">
 				<div class="title-slider">Self-portrait</div>
 			</a>
 		</div>
