@@ -72,22 +72,37 @@ a:hover {
 }
 
 /*Header*/
-header {  width: 100%; -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); box-shadow: 0 1px 4px rgba(0, 0, 0, .2);}
-#branding {float: left;}
-#branding h1 {text-align: center; margin-bottom: 0; padding-bottom: 0; margin: 0 auto; font-size:48px;}
-#branding h2 {text-align: center;font-size: 1.1em; margin-top: 0; padding-top: 0; margin: 0 auto; padding-bottom: 20px; letter-spacing: 1px;}
+header {
+  width: 100%;
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
+}
 
+#branding {
+  float: left;
+}
 
+#branding h1 {
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  margin: 0 auto;
+  font-size:48px;}
 
-#branding a h1, #branding a:visited h1, #branding a h2, #branding a:visited h2, nav a, nav a:visited {
+#branding a h1, #branding a:visited h1, nav a, nav a:visited {
   color: #C7DFB3;
 }
 
 
 /*Nav Styles*/
-#pagenav {float: right;}
+#pagenav {
+  float: right;
+}
 
-#pagenav li {display: inline;}
+#pagenav li {
+  display: inline;
+}
 
 #pagenav a:hover {
   background: rgba(255, 255, 255, .2);
@@ -230,8 +245,16 @@ img.thumb { z-index: 501; -webkit-box-shadow: inset 0 0 50px red);}
 
 li.page p {clear: both;}
 
-.pics {width: 90%; margin: 5px auto; clear: both;}
-.pics .cell {width: 33%; text-align: center; float: left;}
+.pics {
+  width: 90%;
+  margin: 5px auto;
+  clear: both;
+}
+.pics .cell {
+  width: 33%;
+  text-align: center;
+  float: left;
+}
 
 /*footer and icon list styling */
 
@@ -264,18 +287,8 @@ footer {
 .ico-list li a:hover {
   color: #a8fcf7
 }
-.viz-item {
-  background-image: url(/AK_site/img/vizify-green-logo.png);
-  background-repeat: no-repeat;
-  background-size: 75px auto;
-  width: 75px;
-  display: block;
-  text-indent: -9999px;
-}
 
-.viz-item:hover {
-  background-image: url(/AK_site/img/vizify-blue-logo.png);
-}
+/* slider here so there aren't 2 css files to load*/
 
 /*
  * jQuery FlexSlider v2.0
