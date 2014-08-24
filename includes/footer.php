@@ -1,6 +1,6 @@
 <footer>
 	<ul class="ico-list">
-		<li>	
+		<li>
 			<a class="fs1" data-icon="&#xe001;" href="https://twitter.com/risatrix" title="Twitter profile">
 				<span class="screen-reader-text">Twitter</span>
 			</a>
@@ -10,7 +10,7 @@
 				<span class="screen-reader-text">Blog</span>
 			</a>
 		</li>
-		<li>	
+		<li>
 			<a class="fs1" data-icon="&#xe003;" href="http://www.github.com/risatrix" title="Github profile">
 				<span class="screen-reader-text">Github</span>
 			</a>
@@ -19,9 +19,6 @@
 			<a class="fs1" data-icon="&#xe000;" href="http://www.linkedin.com/pub/amanda-krauss/23/7a1/539" title="Linked In profile">
 				<span class="screen-reader-text">Linked In</span>
 			</a>
-		</li>
-		<li class="hide-for-mobile">	
-			<a class="viz-item" href="#">Vizify visual resum&eacute;</a>
 		</li>
 	</ul>
 </footer>
@@ -39,7 +36,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>      
-<script src="js/script.js"></script>	
+</script>
+<script src="js/script.js"></script>
 </body>
 </html>
