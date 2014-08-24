@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<style>
+		.cyoa_wrapper {
+			max-width: 960px !important;
+		}
+
+		.cyoa_content {
+			max-height: none !important;
+		}
+		</style>
+		<link href='cyoa.css' rel='stylesheet' />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="http://static.texastribune.org.s3.amazonaws.com/media/flatpages/scripts/tabletop.js"></script>
+		<script src="cyoa.js"></script>
+		 <script type="text/javascript">
+		            jQuery(document).ready(function() {
+		                  var cyoa = jQuery.Cyoa('0AgQB1XZuIQjddFg2TUdEWTJGcUNDN0FiVVpHQjBKblE',
+		                     { separator : '|',
+		                    control_position: 'split'
+		                    } 
+		                  );
+		           });
+
+		</script>
+	</head>
+
+	<body>
+		<div class="cyoa_wrapper">	
+			<div id="cyoa_container" style="clear: both;"></div>
+		</div>
+	</body>
+
+</html>
