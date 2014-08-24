@@ -26,7 +26,7 @@ body {
   font-family: "futura-pt", sans-serif;
   font-weight: 100;
 	background: #151515 url(../img/black-Linen.png);
-	margin: 0; 
+	margin: 0;
 	padding: 0;
 	text-align: center;
 }
@@ -37,11 +37,11 @@ h1, h2 {
 }
 
 
-ul, ol {list-style-type: none;} 
+ul, ol {list-style-type: none;}
 
 a, a:visited {
  text-decoration: none;
-} 
+}
 
 a, a:visited {
   color: #a8fcf7;
@@ -55,8 +55,8 @@ a:hover {
 /*Structure*/
 #container {
   max-width: 100%;
-	margin: 0 auto; 
-	text-align: left; 
+	margin: 0 auto;
+	text-align: left;
 	color: #C7DFB3;
 	padding: 1em;
   background: rgb(0,0,0); /* Old browsers */
@@ -92,16 +92,16 @@ header {  width: 100%; -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, .2); -webkit-box
 #pagenav a:hover {
   background: rgba(255, 255, 255, .2);
 	-moz-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);
-	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2); 
-	box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);    
-} 
+	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);
+	box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .2);
+}
 
 a.page-nav.flex-active {
   -moz-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1);
-	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1); 
+	-webkit-box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1);
 	box-shadow:  0 0 5px 5px  rgba(255, 255, 255, .1);
-	background: rgba(255, 255, 255, .1);       
-    
+	background: rgba(255, 255, 255, .1);
+
 }
 
 
@@ -126,25 +126,25 @@ a.page-nav.flex-active {
 img.thumb { width: 100%;}
 
 /*Thumbnail Animation*/
-.folio_link{position: relative; overflow: hidden; margin: 1em; float: left;} 
+.folio_link{position: relative; overflow: hidden; margin: 1em; float: left;}
 .title-slider {
   display: block;
-  background: #151515; 
-  background:  rgba(0,0,0,0.85); 
-  color: white; 
-  text-decoration: none; 
-  width: 100%; 
-  height: 50px; 
-  position: absolute; 
-  padding-top: 20px; 
-  padding-left: 10px; 
-  font-weight: bold; 
-  font-size: 1.1em; 
-  -moz-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2); 
-  -webkit-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2); 
-  box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2); 
-  z-index: 10001; 
-  }       
+  background: #151515;
+  background:  rgba(0,0,0,0.85);
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  padding-top: 20px;
+  padding-left: 10px;
+  font-weight: bold;
+  font-size: 1.1em;
+  -moz-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2);
+  -webkit-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2);
+  z-index: 10001;
+  }
 
 .js .title-slider  {
    bottom: -100%;
@@ -202,21 +202,21 @@ img.thumb { width: 100%;}
    margin-left: 1em;
 }
 
-/*Sliders*/ 
+/*Sliders*/
 #homeslider {margin: 10px auto; inherit: none; background: none; border: none; overflow: visible; box-shadow: none;}
 .slider-wrap {position: relative; z-index: 500;}
 
 
 .flexslider .slides {width: 100%;}
-.flexslider .slides img {width: auto;}  
+.flexslider .slides img {width: auto;}
 
-#folioslider .slider-wrap {z-index: 150000;}  
+#folioslider .slider-wrap {z-index: 150000;}
 
 
-img.thumb { z-index: 501; -webkit-box-shadow: inset 0 0 50px red);} 
+img.thumb { z-index: 501; -webkit-box-shadow: inset 0 0 50px red);}
 .folio_link{
-    -moz-box-shadow:  0 0 10px 10px  rgba(0, 0, 0, .2); 
-    -webkit-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2); 
+    -moz-box-shadow:  0 0 10px 10px  rgba(0, 0, 0, .2);
+    -webkit-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .2);
     box-shadow:  0 0 10px 10px  rgba(0, 0, 0, .2);
     float: left;
     max-height: 200px;
@@ -224,14 +224,14 @@ img.thumb { z-index: 501; -webkit-box-shadow: inset 0 0 50px red);}
     }
 .folio_link:hover {
      -moz-box-shadow:  0 0 10px 10px  rgba(255, 255, 255, .3);
-     -webkit-box-shadow:  0 0 10px 10px  rgba(255, 255, 255, .3); 
+     -webkit-box-shadow:  0 0 10px 10px  rgba(255, 255, 255, .3);
      box-shadow:  0 0 10px 10px  rgba(255, 255, 255, .3);
     }
 
 li.page p {clear: both;}
 
 .pics {width: 90%; margin: 5px auto; clear: both;}
-.pics .cell {width: 33%; text-align: center; float: left;} 
+.pics .cell {width: 33%; text-align: center; float: left;}
 
 /*footer and icon list styling */
 
@@ -288,7 +288,7 @@ footer {
  * Contributing author: Tyler Smith (@mbmufffin)
  */
 
- 
+
 /* Browser Resets */
 .flex-container a:active,
 .flexslider a:active,
@@ -296,18 +296,18 @@ footer {
 .flexslider a:focus  {outline: none;}
 .slides,
 .flex-control-nav,
-.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;}
 
 /* FlexSlider Necessary Styles
-*********************************/ 
+*********************************/
 .flexslider {margin: 0; padding: 0;}
 .flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides img {width: 100%; display: block;}
 .flex-pauseplay span {text-transform: capitalize;}
 
 /* Clearfix for the .slides element */
-.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
-html[xmlns] .slides {display: block;} 
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+html[xmlns] .slides {display: block;}
 * html .slides {height: 1%;}
 
 /* No JavaScript Fallback */
@@ -353,10 +353,12 @@ html[xmlns] .slides {display: block;}
   .flex-direction-nav .flex-prev {opacity: 1; left: 0;}
   .flex-direction-nav .flex-next {opacity: 1; right: 0;}
 
- 
+
 }
 
 
+
+/* Mobile Styles */
 
 @media screen and (max-width: 800px) {
 
@@ -364,7 +366,7 @@ html[xmlns] .slides {display: block;}
     padding: 0 1em;
   }
 
-  #branding, #pagenav, #pagenav li a {
+  #branding, #pagenav {
     float: none;
   }
 
@@ -372,6 +374,17 @@ html[xmlns] .slides {display: block;}
     margin: 0 auto;
     text-align: center;
   }
+
+  #pagenav ul {
+    padding-left: 0;
+  }
+
+  #pagenav li a {
+    font-size: 18px;
+    margin-right: 0;
+    width: 25%;
+  }
+
   .pics .cell {width: 100%;}
 
   .js.csstransforms3d.csstransitions .title-slider {
